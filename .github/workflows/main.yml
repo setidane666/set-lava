@@ -14,8 +14,8 @@ permissions:
   contents: write # Grants permissions to write to the repo
 
 env:
-  GIT_USER_EMAIL: afifc.apcut@gmail.com
-  GIT_USER_NAME: afifcapcut112
+  GIT_USER_EMAIL: seti.da.ne@gmail.com
+  GIT_USER_NAME: setidane666
 
 jobs:
   ethereum_auto_commit:
